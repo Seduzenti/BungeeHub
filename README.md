@@ -1,6 +1,6 @@
 # BungeeHub - Plugin de Utilidades
 
-Source de um plugin de utilidades, feito por mim. Este é um plugin bem fácil de fazer e bem simples, em breve irei estar compartilhando sources de plugins um pouco mais avançados, pois estou no começo! O primeiro e próprio projeto desenvolvido por mim! Espero que gostem. Aqui está uma pequena lista do o que contém neste plugin!
+Source de um plugin de utilidades, feito por mim. Sei que e um plugin meio inutil mas sei que muitos presisa desse tipo de plugin pois nem todos os plugins de lobby faz isso!
 
 Comando de reload;
 Comando de lobby;
