@@ -15,4 +15,4 @@ bungehub.reload - Para reiniciar o plugin caso vc tenha mudado algo na config.ym
 Comandos
 /lobby ou /hub;
 Importante!!
-Caso encontre algum bug em meu plugin, favor contatar via Discord izzypixel#0001 enviando prints e uma descrição bem detalhada para a resolução do erro! E caso queira a mudança de alguma mensagem no plugin, se você quer que eu altere uma mensagem para seu servidor, favor contatar via Discord também.
+Caso encontre algum bug em meu plugin, favor contatar via Discord TheGuii#0001 enviando prints e uma descrição bem detalhada para a resolução do erro! E caso queira a mudança de alguma mensagem no plugin, se você quer que eu altere uma mensagem para seu servidor, favor contatar via Discord também.
